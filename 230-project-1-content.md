@@ -16,6 +16,9 @@ Just like zergs, the mice come in waves. The goal is to take out as many mice as
 Both the graphics and the sound will be simplistic, in an 8-bit style. The player's "shots" and the mice will have sound effects, accompanied by a short, looping background tune.
 ## Gameplay
 This game is endless, and has a similar appeal to cookie clicker games due to its repetitiveness. There is also progression, as the waves become more difficult as time goes on. The player uses the mouse (ironically) to attack - otherwise, the game is self explanatory. The player must react quickly to attacking mice and be on the lookout for enemies in all directions. Failing to pay close attention will lose them the game.
+## Screenshots
+![alt text](https://github.com/blt7138/IGME-230/blob/master/mouse.jpg "Mouse")
+![alt text](https://github.com/blt7138/IGME-230/blob/master/defendthecheese.jpg "Defend the cheese!")
 ## About the developer
 * Bryce Tynes
 * Game Design and Development (major)
